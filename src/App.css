@@ -67,3 +67,23 @@ hr{
   padding:2px;
   font-size: 1.2rem;
 }
+
+/* Skills Section  */
+
+.skills-h1{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-list{
+  display: grid;
+  font-size: 20px;
+  font-weight: 700;
+  grid-template-columns: repeat(4,1fr);
+  line-height: 70px;
+  list-style: none;
+  margin: auto;
+  width: 80%;
+}

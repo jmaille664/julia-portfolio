@@ -3,6 +3,8 @@ import JM from '../image/JM.png'
 
 export default function Home(){
 
+    document.title = "Julia Maille | Web Dev | QA Engineer"
+
     return <>
     
     <p className="Welcome-Section-Paragraph">Hello 👋 I'm Julia.<br/>
