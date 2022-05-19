@@ -31,15 +31,7 @@ export default function Footer(){
               /*<a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by riajulislam - Flaticon</a>*//>
             </a>
             <a
-            /*Gmail image and email link */
-              className="footerLogo"
-              href="mailto:designsbyjuliam@gmail.com "
-              target="_blank"
-            >
-              <img className="footerLogo" src={gmailPhoto} alt="Gmail"
-              /*<<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Pixel perfect - Flaticon</a>*//>
-            </a>
-            <a
+            
             /*Instagram image and link */
               className="footerLogo"
               href="https://www.instagram.com/juliamcodes/ "
@@ -49,6 +41,7 @@ export default function Footer(){
               /*<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Laisa Islam Ani - Flaticon</a>*//>
             </a>
             </div>
+            <div><p className="footer-text">Made by Julia Maille</p></div>
           </footer>
         </div>
       );

@@ -68,7 +68,7 @@ hr{
   font-size: 1.2rem;
 }
 
-/* Skills Section  */
+/**** Skills Section  ****/
 
 .skills-h1{
   text-align: center;
@@ -86,4 +86,46 @@ hr{
   list-style: none;
   margin: auto;
   width: 80%;
+}
+
+
+/**** Footer Section  ****/
+.footer > a {
+  margin: 10px;
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+}
+
+/* Footer text */
+.footer > a {
+  margin: 1rem;
+  text-decoration: none;
+  color: black;
+  font-size: medium;
+  font-weight: 700;
+}
+
+/* When hover over nav links in footer */
+footer a:hover {
+  color: white;
+}
+
+.footerLogo{
+  width: 40px;
+  height: 40px;
+  justify-content: space-between;
+  align-items: center;
+  Flex-wrap: wrap;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.footer-text{
+  display: flex;
+  justify-content: center;
 }

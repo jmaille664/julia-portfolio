@@ -5,6 +5,7 @@ import JM from "./image/JM.png"
 import NavBar from "./components/Home.js"
 import About from "./components/About.js"
 import Skills from "./components/Skills.js"
+import Footer from "./components/Footer.js"
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       <div>
         <Skills/>
       </div>
+      <Footer/>
     </div>
     
   );
