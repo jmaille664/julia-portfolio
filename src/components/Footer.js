@@ -41,7 +41,7 @@ export default function Footer(){
               /*<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Laisa Islam Ani - Flaticon</a>*//>
             </a>
             </div>
-            <div><p className="footer-text">Made by Julia Maille</p></div>
+            <div><p className="footer-text">Made by Julia Maille💜</p></div>
           </footer>
         </div>
       );

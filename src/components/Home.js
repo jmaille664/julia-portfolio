@@ -7,10 +7,10 @@ export default function Home(){
 
     return <>
     
-    <p className="Welcome-Section-Paragraph">Hello 👋 I'm Julia.<br/>
+    <h1 className="Welcome-Section-Paragraph">Hello 👋 I'm Julia.<br/>
     Full Stack Web Developer,<br/>
     QA Engineer,<br/>
     and passionate about web accessibility.
-    </p>
+    </h1>
     </>
 }
