@@ -40,7 +40,9 @@ export default function Projects(){
     <button className="button2">Live Site</button>
   </a> 
         </section>
+     
        </div> 
+       <hr></hr>
     </div>
     </>
 }
