@@ -142,6 +142,7 @@ button{
   font-size: 1rem;
   border: none;
   border-radius: 2px;
+  padding: .3rem;
 }
 
 .button1{
@@ -173,6 +174,16 @@ button{
 }
 
 .contact-content-p{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  margin-right: 10rem;
+  margin-left: 10rem;
+}
+
+.contact-linkedin{
   text-align: center;
   display: flex;
   justify-content: center;
@@ -256,6 +267,15 @@ button{
     margin-top: 1rem;
   margin-bottom: 2rem;
   }
+
+  .contact-content-p{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    margin: auto;
+  }
   
 
 }
@@ -285,6 +305,15 @@ button{
     display: flex;
     justify-content: center;
     align-items: center
+  }
+
+  .contact-content-p{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    margin: auto;
   }
   
 
