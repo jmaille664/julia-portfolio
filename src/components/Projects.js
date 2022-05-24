@@ -20,7 +20,7 @@ export default function Projects(){
         <a href="https://github.com/Interactive-Portfolio-for-Zak/capstone-project" target="_blank">
     <button className="button1">View Capstone Project On Github</button>
   </a> 
-  <a href="https://zak-portfolio-capstone.herokuapp.com/">
+  <a href="https://zak-portfolio-capstone.herokuapp.com/" target="_blank">
     <button className="button2">View Capstone Project Website</button>
   </a>
   </section> 
@@ -37,7 +37,7 @@ export default function Projects(){
         <a href="https://github.com/jmaille664/wave-portal" target="_blank">
     <button className="button1">View Wave Portal Project On Github</button>
   </a> 
-  <a href="https://zak-portfolio-capstone.herokuapp.com/" target="_blank">
+  <a href="https://wave-portal-ashy.vercel.app/" target="_blank">
     <button className="button2">View Wave Portal Project Website</button>
   </a> 
         </section>
